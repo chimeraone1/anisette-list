@@ -1,10 +1,12 @@
-[
-  {
-    "name": "ethxn omnisette",
-    "address": "https://omnisette.ethxn.me"
-  },
-  {
-    "name": "Nezarz One",
-    "address": "https://ani.nezarz.xyz"
-  }
-]
+{
+  "servers": [
+    {
+      "name": "ethun anisette",
+      "address": "https://omnisette.ethun.me"
+    },
+    {
+      "name": "Nezarr One",
+      "address": "https://ani.nezarr.xyz"
+    }
+  ]
+}
